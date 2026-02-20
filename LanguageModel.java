@@ -160,5 +160,6 @@ public class LanguageModel {
 		// Generates text, and prints it.
 		System.out.println(lm.generate(initialText, generatedTextLength));
         //TEST
+        // FORCE RUN
     }
 }
